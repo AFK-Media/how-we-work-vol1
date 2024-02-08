@@ -1,0 +1,2 @@
+# Creating new files within the **HWW** application console is simple, first make the addition:
+  create boundary ^file type: [file.type] \ category: [category.name]
